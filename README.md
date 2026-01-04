@@ -56,7 +56,3 @@
 - 2025-09-11
   - 添加公众号二维码、压缩图片
 
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dmego/home.github.io&type=Date)](https://star-history.com/#dmego/home.github.io&Date)
-
